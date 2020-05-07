@@ -5,8 +5,7 @@ def isprime(zahl):
         if zahl % i == 0:
             output = False
             break
-        else:
-            i+=2
+        i+=2
     return output
 
 primenumbers =[2,3]
