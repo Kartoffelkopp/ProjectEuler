@@ -9,3 +9,7 @@ def sieb_des_Erathostenes(n):
             flags[i*i::i]=False
 
     return np.flatnonzero(flags)
+
+import math
+summe = math.fsum(sieb_des_Erathostenes(2000000))
+print(summe)
