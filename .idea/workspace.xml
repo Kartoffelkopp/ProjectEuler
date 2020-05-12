@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6ebe46b-df7d-4f2d-a9e5-275a53e0ab65" name="Default Changelist" comment="inital commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ProjectEuler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12HighlyDivisibleTriangleNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13OneHundred50DigitSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IsPrime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prob13OneHundred50digitNumber.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11LargestProductGrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/11LargestProductGrid.py" afterDir="false" />
+    <list default="true" id="a6ebe46b-df7d-4f2d-a9e5-275a53e0ab65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/14LongestCollatzSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15LatticePath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16PowerDigitSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17NumberLetterCounts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13OneHundred50DigitSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/13LargeSum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +44,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../NeuralNetworks/neuralnetwork.py" />
   </component>
-  <component name="RunManager" selected="Python.12HighlyDivisibleTriangleNumber">
-    <configuration name="10SummationOfPrimes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.17NumberLetterCounts">
+    <configuration name="14LongestCollatzSequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10SummationOfPrimes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14LongestCollatzSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11LargestProductGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15LatticePath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11LargestProductGrid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15LatticePath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12HighlyDivisibleTriangleNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16PowerDigitSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12HighlyDivisibleTriangleNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16PowerDigitSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SiebDesErathostenes (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17NumberLetterCounts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SiebDesErathostenes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17NumberLetterCounts.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SiebDesErathostenes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Christos\PycharmProjects\ProjectEuler\SiebDesErathostenes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.12HighlyDivisibleTriangleNumber" />
-        <item itemvalue="Python.11LargestProductGrid" />
-        <item itemvalue="Python.SiebDesErathostenes (1)" />
-        <item itemvalue="Python.10SummationOfPrimes" />
-        <item itemvalue="Python.SiebDesErathostenes" />
+        <item itemvalue="Python.17NumberLetterCounts" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.16PowerDigitSum" />
+        <item itemvalue="Python.15LatticePath" />
+        <item itemvalue="Python.14LongestCollatzSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +309,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588899883984</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="inital commit">
+      <created>1588952222083</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1588952222083</updated>
+    </task>
+    <task id="LOCAL-00020" summary="inital commit">
+      <created>1588952232755</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1588952232755</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,10 +335,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1588689252676" />
-    <state x="614" y="117" key="CommitChangelistDialog2" timestamp="1588952221583">
+    <state x="614" y="117" key="CommitChangelistDialog2" timestamp="1588952232333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588952221583" />
+    <state x="614" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588952232333" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1588689192896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -342,22 +351,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="353" y="414" width="260" height="211" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588690553060" />
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1588951975045">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1589312220950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588951975045" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1588951975045">
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589312220950" />
+    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1589312220950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588951975045" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1588951975045">
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589312220950" />
+    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1589312220950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588951975045" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1588951975045">
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589312220950" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1589312220950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588951975045" />
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589312220950" />
     <state x="368" y="90" key="MergeDialog" timestamp="1588765347901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -366,14 +375,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1058" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588765347901" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1588952223333">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1588952234067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588952223333" />
-    <state x="183" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588950130871">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588952234067" />
+    <state x="183" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1589295756761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="183" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588950130871" />
+    <state x="183" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589295756761" />
     <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588798636822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -382,5 +391,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588798624760" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1589225779602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589225779602" />
   </component>
 </project>
